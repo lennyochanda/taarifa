@@ -1,13 +1,18 @@
 <script>
 	import '../tailwind.css';
     import { initClient } from '@urql/svelte'
+	import Footer from '$lib/components/Footer.svelte';
+	import Header from '$lib/components/Header.svelte';
 
 	initClient({
 		url: 'https://api-eu-central-1.graphcms.com/v2/ckwi1vjvs1cyk01ze7bqg2mn1/master'
 	})
 </script>
 
+<Header />
 
-<div class="container mx-auto my-6 max-w-lg">
+<div class="md:container md:mx-auto my-6">
 	<slot />
 </div>
+
+<Footer />
