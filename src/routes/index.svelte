@@ -1,11 +1,45 @@
+<script>
+	import { gql, operationStore, query } from '@urql/svelte'
+	import PostCard from '$lib/components/PostCard.svelte'
+	
+	const postsQuery = gql`
+    query Posts {
+		posts {
+			id
+			title
+			image {
+				url
+			}
+			category
+			excerpt 
+			author {
+				name
+			}
+			publishedAt
+		}
+    }
+	`
+	
+	const posts = operationStore(postsQuery)
+	
+	query(posts)
+</script>
+
 <svelte:head>
-	<title>SvelteKit + TailwindCSS</title>
+	<title>HOME PAGE</title>
 </svelte:head>
 
-<h1 class="text-4xl text-center text-red-600">Welcome to Svelte Kit + TailwindCSS Template</h1>
+{#if $posts.fetching}
+  <p>Loading posts..</p>
+{:else if $posts.error}
+  <p>Error! {$posts.error.message}</p>
+{:else}
+  <ul>
+    {#each $posts.data.posts as post}
+    	<li>
+			<PostCard {...post} />
+		</li>
+    {/each}
+  </ul>
+{/if}
 
-<p class="my-10 text-xl text-center">
-	This is a barebones template that comes pre-configured with TailwindCSS and eslint for starting SvelteKit projects.
-	Please make sure you have the Svelte for VSCode plugin installed. It provides prettier rules and even contains a
-	eslint linter.
-</p>
