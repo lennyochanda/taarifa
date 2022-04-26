@@ -33,12 +33,12 @@
 {:else}
     {#each $posts.data.posts as post}
         {#if post.category === 'featured'}
-        <h1 class="text-xl m-3 text-left text-red-600">Trending</h1>
+        <h1 class="text-xl m-3 text-left text-red-600 m-0">Trending</h1>
             <div class="bg-gray-200 ">
                 <div class="container px-6 py-4 mx-auto lg:flex lg:h-128 lg:py-16 ">
                     <div class="flex flex-col items-center w-full lg:flex-row lg:w-1/2">
                         <div class="max-w-lg">
-                            <h1 class="text-xl tracking-wide text-white text-red-600 lg:text-3xl lg:text-4xl">{post.title}</h1>
+                            <h1 class="text-xl tracking-wide text-red-600 lg:text-3xl lg:text-4xl">{post.title}</h1>
                             <p class="mt-4 text-gray-300 text-gray-600">{post.excerpt}</p>
                             <div class="mt-6">
                                 <a href="/{post.id}"

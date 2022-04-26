@@ -1,5 +1,5 @@
 <div class="container px-6 py-4 mx-auto lg:h-128 lg:py-16">
-  <h1 class="text-3xl m-4 text-left text-red-600">Editor's picks</h1>
+  <h1 class="text-3xl m-3 text-left text-red-600">Editor's picks</h1>
   <div class="flex flex-col md:flex-row -mx-1.5 p-4">
     <a href="#" class="h-72 md:h-auto w-full md:w-7/12 mx-1.5 mb-6 md:mb-0 group">
       <div class="h-72 md:h-full relative">
