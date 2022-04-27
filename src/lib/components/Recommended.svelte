@@ -1,6 +1,223 @@
-<div class="container px-6 py-4 mx-auto lg:h-128 lg:py-16">
-  <h1 class="text-3xl m-3 text-left text-red-600">Editor's picks</h1>
-  <div class="flex flex-col md:flex-row -mx-1.5 p-4">
+<div class="container mx-auto lg:h-128 p-5">
+  <div class="flex py-5">
+    <p class="pr-2.5 text-sky-900 font-bold">Top Picks</p>
+    <svg width="24px" height="24px" viewBox="0 0 270.365 270.365" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path style="fill:red;" d="M269.884,103.996c-0.943-2.903-4.038-7.772-14.162-7.772h-73.543c-4.999,0-10.958-4.329-12.503-9.083
+	l-22.726-69.945c-3.129-9.628-8.717-11.065-11.769-11.065c-3.052,0-8.64,1.438-11.769,11.066l-22.726,69.944
+	c-1.545,4.754-7.504,9.083-12.502,9.083H14.642c-10.125,0-13.219,4.869-14.162,7.772c-0.943,2.902-1.302,8.661,6.89,14.612
+	l59.497,43.226c4.044,2.939,6.32,9.944,4.775,14.698l-22.726,69.943c-1.867,5.745-1.578,10.358,0.858,13.711
+	c1.868,2.572,4.827,4.047,8.118,4.047c3.14-0.001,6.432-1.283,10.065-3.923l59.497-43.227c1.929-1.401,4.745-2.205,7.729-2.205
+	c2.982,0,5.798,0.804,7.727,2.205l59.497,43.229c3.634,2.639,6.927,3.922,10.066,3.922c3.29-0.001,6.248-1.476,8.116-4.048
+	c2.437-3.352,2.725-7.966,0.858-13.709l-22.726-69.945c-1.545-4.753,0.731-11.759,4.775-14.697l59.499-43.226
+	C271.187,112.656,270.828,106.899,269.884,103.996z M194.681,149.7c-9.277,6.74-13.769,20.563-10.225,31.468l20.228,62.258
+	l-52.958-38.478c-4.499-3.27-10.374-5.069-16.543-5.069c-6.169,0-12.045,1.8-16.545,5.069L65.68,243.426l20.228-62.257
+	c3.544-10.906-0.947-24.729-10.225-31.469l-52.959-38.477h65.462c11.466,0,23.224-8.543,26.767-19.448l20.229-62.259l20.229,62.259
+	c3.544,10.905,15.302,19.448,26.769,19.448h65.462L194.681,149.7z"/>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+  </svg>
+    <svg width="24px" height="24px" viewBox="0 0 270.365 270.365" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path style="fill:red;" d="M269.884,103.996c-0.943-2.903-4.038-7.772-14.162-7.772h-73.543c-4.999,0-10.958-4.329-12.503-9.083
+	l-22.726-69.945c-3.129-9.628-8.717-11.065-11.769-11.065c-3.052,0-8.64,1.438-11.769,11.066l-22.726,69.944
+	c-1.545,4.754-7.504,9.083-12.502,9.083H14.642c-10.125,0-13.219,4.869-14.162,7.772c-0.943,2.902-1.302,8.661,6.89,14.612
+	l59.497,43.226c4.044,2.939,6.32,9.944,4.775,14.698l-22.726,69.943c-1.867,5.745-1.578,10.358,0.858,13.711
+	c1.868,2.572,4.827,4.047,8.118,4.047c3.14-0.001,6.432-1.283,10.065-3.923l59.497-43.227c1.929-1.401,4.745-2.205,7.729-2.205
+	c2.982,0,5.798,0.804,7.727,2.205l59.497,43.229c3.634,2.639,6.927,3.922,10.066,3.922c3.29-0.001,6.248-1.476,8.116-4.048
+	c2.437-3.352,2.725-7.966,0.858-13.709l-22.726-69.945c-1.545-4.753,0.731-11.759,4.775-14.697l59.499-43.226
+	C271.187,112.656,270.828,106.899,269.884,103.996z M194.681,149.7c-9.277,6.74-13.769,20.563-10.225,31.468l20.228,62.258
+	l-52.958-38.478c-4.499-3.27-10.374-5.069-16.543-5.069c-6.169,0-12.045,1.8-16.545,5.069L65.68,243.426l20.228-62.257
+	c3.544-10.906-0.947-24.729-10.225-31.469l-52.959-38.477h65.462c11.466,0,23.224-8.543,26.767-19.448l20.229-62.259l20.229,62.259
+	c3.544,10.905,15.302,19.448,26.769,19.448h65.462L194.681,149.7z"/>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+  </svg>
+    <svg width="24px" height="24px" viewBox="0 0 270.365 270.365" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path style="fill:red;" d="M269.884,103.996c-0.943-2.903-4.038-7.772-14.162-7.772h-73.543c-4.999,0-10.958-4.329-12.503-9.083
+	l-22.726-69.945c-3.129-9.628-8.717-11.065-11.769-11.065c-3.052,0-8.64,1.438-11.769,11.066l-22.726,69.944
+	c-1.545,4.754-7.504,9.083-12.502,9.083H14.642c-10.125,0-13.219,4.869-14.162,7.772c-0.943,2.902-1.302,8.661,6.89,14.612
+	l59.497,43.226c4.044,2.939,6.32,9.944,4.775,14.698l-22.726,69.943c-1.867,5.745-1.578,10.358,0.858,13.711
+	c1.868,2.572,4.827,4.047,8.118,4.047c3.14-0.001,6.432-1.283,10.065-3.923l59.497-43.227c1.929-1.401,4.745-2.205,7.729-2.205
+	c2.982,0,5.798,0.804,7.727,2.205l59.497,43.229c3.634,2.639,6.927,3.922,10.066,3.922c3.29-0.001,6.248-1.476,8.116-4.048
+	c2.437-3.352,2.725-7.966,0.858-13.709l-22.726-69.945c-1.545-4.753,0.731-11.759,4.775-14.697l59.499-43.226
+	C271.187,112.656,270.828,106.899,269.884,103.996z M194.681,149.7c-9.277,6.74-13.769,20.563-10.225,31.468l20.228,62.258
+	l-52.958-38.478c-4.499-3.27-10.374-5.069-16.543-5.069c-6.169,0-12.045,1.8-16.545,5.069L65.68,243.426l20.228-62.257
+	c3.544-10.906-0.947-24.729-10.225-31.469l-52.959-38.477h65.462c11.466,0,23.224-8.543,26.767-19.448l20.229-62.259l20.229,62.259
+	c3.544,10.905,15.302,19.448,26.769,19.448h65.462L194.681,149.7z"/>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+  </svg>
+    <svg width="24px" height="24px" viewBox="0 0 270.365 270.365" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path style="fill:red;" d="M269.884,103.996c-0.943-2.903-4.038-7.772-14.162-7.772h-73.543c-4.999,0-10.958-4.329-12.503-9.083
+	l-22.726-69.945c-3.129-9.628-8.717-11.065-11.769-11.065c-3.052,0-8.64,1.438-11.769,11.066l-22.726,69.944
+	c-1.545,4.754-7.504,9.083-12.502,9.083H14.642c-10.125,0-13.219,4.869-14.162,7.772c-0.943,2.902-1.302,8.661,6.89,14.612
+	l59.497,43.226c4.044,2.939,6.32,9.944,4.775,14.698l-22.726,69.943c-1.867,5.745-1.578,10.358,0.858,13.711
+	c1.868,2.572,4.827,4.047,8.118,4.047c3.14-0.001,6.432-1.283,10.065-3.923l59.497-43.227c1.929-1.401,4.745-2.205,7.729-2.205
+	c2.982,0,5.798,0.804,7.727,2.205l59.497,43.229c3.634,2.639,6.927,3.922,10.066,3.922c3.29-0.001,6.248-1.476,8.116-4.048
+	c2.437-3.352,2.725-7.966,0.858-13.709l-22.726-69.945c-1.545-4.753,0.731-11.759,4.775-14.697l59.499-43.226
+	C271.187,112.656,270.828,106.899,269.884,103.996z M194.681,149.7c-9.277,6.74-13.769,20.563-10.225,31.468l20.228,62.258
+	l-52.958-38.478c-4.499-3.27-10.374-5.069-16.543-5.069c-6.169,0-12.045,1.8-16.545,5.069L65.68,243.426l20.228-62.257
+	c3.544-10.906-0.947-24.729-10.225-31.469l-52.959-38.477h65.462c11.466,0,23.224-8.543,26.767-19.448l20.229-62.259l20.229,62.259
+	c3.544,10.905,15.302,19.448,26.769,19.448h65.462L194.681,149.7z"/>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+  </svg>
+  <svg width="24px" height="24px" viewBox="0 0 270.365 270.365" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path style="fill:red;" d="M269.884,103.996c-0.943-2.903-4.038-7.772-14.162-7.772h-73.543c-4.999,0-10.958-4.329-12.503-9.083
+    l-22.726-69.945c-3.129-9.628-8.717-11.065-11.769-11.065c-3.052,0-8.64,1.438-11.769,11.066l-22.726,69.944
+    c-1.545,4.754-7.504,9.083-12.502,9.083H14.642c-10.125,0-13.219,4.869-14.162,7.772c-0.943,2.902-1.302,8.661,6.89,14.612
+	l59.497,43.226c4.044,2.939,6.32,9.944,4.775,14.698l-22.726,69.943c-1.867,5.745-1.578,10.358,0.858,13.711
+	c1.868,2.572,4.827,4.047,8.118,4.047c3.14-0.001,6.432-1.283,10.065-3.923l59.497-43.227c1.929-1.401,4.745-2.205,7.729-2.205
+	c2.982,0,5.798,0.804,7.727,2.205l59.497,43.229c3.634,2.639,6.927,3.922,10.066,3.922c3.29-0.001,6.248-1.476,8.116-4.048
+	c2.437-3.352,2.725-7.966,0.858-13.709l-22.726-69.945c-1.545-4.753,0.731-11.759,4.775-14.697l59.499-43.226
+	C271.187,112.656,270.828,106.899,269.884,103.996z M194.681,149.7c-9.277,6.74-13.769,20.563-10.225,31.468l20.228,62.258
+	l-52.958-38.478c-4.499-3.27-10.374-5.069-16.543-5.069c-6.169,0-12.045,1.8-16.545,5.069L65.68,243.426l20.228-62.257
+	c3.544-10.906-0.947-24.729-10.225-31.469l-52.959-38.477h65.462c11.466,0,23.224-8.543,26.767-19.448l20.229-62.259l20.229,62.259
+	c3.544,10.905,15.302,19.448,26.769,19.448h65.462L194.681,149.7z"/>
+  <g>
+  </g>
+  <g>
+  </g>
+  <g>
+  </g>
+  <g>
+  </g>
+  <g>
+  </g>
+  <g>
+  </g>
+  <g>
+  </g>
+  <g>
+  </g>
+  <g>
+  </g>
+  <g>
+  </g>
+  <g>
+  </g>
+  <g>
+  </g>
+  <g>
+  </g>
+  <g>
+  </g>
+  <g>
+  </g>
+</svg> 
+</div>
+<div class="flex flex-col md:flex-row -mx-1.5">
     <a href="#" class="h-72 md:h-auto w-full md:w-7/12 mx-1.5 mb-6 md:mb-0 group">
       <div class="h-72 md:h-full relative">
         <img src="https://images.unsplash.com/photo-1624397640148-949b1732bb0a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=564&q=80" class="absolute z-0 object-cover w-full h-72 md:h-full rounded-md">
@@ -12,7 +229,7 @@
               <svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="clock" class="h-3 mr-1" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
                 <path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200zm61.8-104.4l-84.9-61.7c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v141.7l66.8 48.6c5.4 3.9 6.5 11.4 2.6 16.8L334.6 349c-3.9 5.3-11.4 6.5-16.8 2.6z"></path>
               </svg>
-              <span class="text-xs text-white">18h | Stephen Ainsworth</span>
+              <span class="text-sm text-white">18h | Stephen Ainsworth</span>
             </div>
           </div>
         </div>
@@ -22,48 +239,48 @@
       <a href="#" class="flex items-center group mb-3 pb-3 border-b">
         <img src="https://images.unsplash.com/photo-1633265486064-086b219458ec?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=96&amp;q=80" class="rounded-md object-cover mr-3 h-24 w-24">
         <div class="flex-1">
-          <h2 class="font-bold text-lg leading-tight group-hover:underline mb-2">Facebook and Instagram encryption plans delayed by Meta until 2023</h2>
+          <h2 class="font-bold text-lg leading-tight group-hover:underline mb-2 text-sky-900">Facebook and Instagram encryption plans delayed by Meta until 2023</h2>
           <div class="flex items-center">
             <svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="clock" class="h-3 mr-1" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
               <path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200zm61.8-104.4l-84.9-61.7c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v141.7l66.8 48.6c5.4 3.9 6.5 11.4 2.6 16.8L334.6 349c-3.9 5.3-11.4 6.5-16.8 2.6z"></path>
             </svg>
-            <span class="text-xs">1h | Stephen Ainsworth</span>
+            <span class="text-sm">1h | Stephen Ainsworth</span>
           </div>
         </div>
       </a>
       <a href="#" class="flex items-center group mb-3 pb-3 border-b">
         <img src="https://images.unsplash.com/photo-1516245834210-c4c142787335?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=96&q=80" class="rounded-md object-cover mr-3 h-24 w-24">
         <div class="flex-1">
-          <h2 class="font-bold text-lg leading-tight group-hover:underline mb-2">El Salvador Bitcoin city planned at base of Conchagua volcano</h2>
+          <h2 class="font-bold text-lg leading-tight group-hover:underline mb-2 text-sky-900">El Salvador Bitcoin city planned at base of Conchagua volcano</h2>
           <div class="flex items-center">
             <svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="clock" class="h-3 mr-1" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
               <path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200zm61.8-104.4l-84.9-61.7c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v141.7l66.8 48.6c5.4 3.9 6.5 11.4 2.6 16.8L334.6 349c-3.9 5.3-11.4 6.5-16.8 2.6z"></path>
             </svg>
-            <span class="text-xs">18h | Stephen Ainsworth</span>
+            <span class="text-sm">18h | Stephen Ainsworth</span>
           </div>
         </div>
       </a>
       <a href="#" class="flex items-center group mb-3 pb-3 border-b">
         <img src="https://images.unsplash.com/photo-1593941707882-a5bba14938c7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=96&q=80" class="rounded-md object-cover mr-3 h-24 w-24">
         <div class="flex-1">
-          <h2 class="font-bold text-lg leading-tight group-hover:underline mb-2">New homes in England to have electric car chargers by law</h2>
+          <h2 class="font-bold text-lg leading-tight group-hover:underline mb-2 text-sky-900">New homes in England to have electric car chargers by law</h2>
           <div class="flex items-center">
             <svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="clock" class="h-3 mr-1" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
               <path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200zm61.8-104.4l-84.9-61.7c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v141.7l66.8 48.6c5.4 3.9 6.5 11.4 2.6 16.8L334.6 349c-3.9 5.3-11.4 6.5-16.8 2.6z"></path>
             </svg>
-            <span class="text-xs">1d | Stephen Ainsworth</span>
+            <span class="text-sm">1d | Stephen Ainsworth</span>
           </div>
         </div>
       </a>
       <a href="#" class="flex items-center group">
         <img src="https://images.unsplash.com/photo-1521542464131-cb30f7398bc6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=96&q=80" class="rounded-md object-cover mr-3 h-24 w-24">
         <div class="flex-1">
-          <h2 class="font-bold text-lg leading-tight group-hover:underline mb-2">Six million routers had serious security flaw</h2>
+          <h2 class="font-bold text-lg leading-tight group-hover:underline mb-2 text-sky-900">Six million routers had serious security flaw</h2>
           <div class="flex items-center">
             <svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="clock" class="h-3 mr-1" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
               <path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200zm61.8-104.4l-84.9-61.7c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v141.7l66.8 48.6c5.4 3.9 6.5 11.4 2.6 16.8L334.6 349c-3.9 5.3-11.4 6.5-16.8 2.6z"></path>
             </svg>
-            <span class="text-xs">12d | Stephen Ainsworth</span>
+            <span class="text-sm">12d | Stephen Ainsworth</span>
           </div>
         </div>
       </a>
