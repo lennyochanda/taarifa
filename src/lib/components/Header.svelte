@@ -37,7 +37,7 @@
     {#if searchBox}
         <div class="flex-none gap-2">
             <div class="form-control">
-                <input type="text" placeholder="Search" class="input input-bordered" bind:value={searchInput}>
+                <input type="text" placeholder="Search" class="input input-bordered md:w-80" bind:value={searchInput}>
             </div>
         </div>
     {/if}
